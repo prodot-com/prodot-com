@@ -27,7 +27,7 @@ Software developer currently building from zero in Kolkata, India.
 ### 🔷 My latest projects
 **Cric-Scroboard** — A full-stack MERN application that provides live ball-by-ball scoring for local cricket matches. It includes an admin panel for scoring and a shareable spectator link, with updates.
 
-
+### More loading!
 ---
 
 
