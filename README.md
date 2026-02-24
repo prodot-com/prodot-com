@@ -1,45 +1,45 @@
-# PROBAL GHOSH <3
-==================
+# Hi, I'm Probal Ghosh 👋  
+**Full-Stack Developer | Building from zero in Kolkata, India 🇮🇳**
 
-Love turning ideas into scalable full-stack products.  
-Currently building real-world applications that solve practical problems.
+I’m a full-stack developer passionate about building **scalable, production-ready web applications** and exploring the internals of backend systems.  
+Currently upgrading my portfolio and shipping **React & Next.js applications** with a strong focus on performance, clean architecture, and developer experience.
 
----------------  
-Connect With Me  
+---
 
-» Portfolio     → https://your-portfolio-link.com  
-» LinkedIn      → https://linkedin.com/in/your-link  
-» Email         → yourmail@gmail.com  
-» Location      → Kolkata, India  
+## 🌐 Connect With Me
 
---------------  
-Skills & Tools  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ghoshprobal)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xprobal52@gmail.com)
 
-» Backend:      Java, Spring Boot, Node.js, Express.js  
-» Frontend:     React, Next.js, JavaScript, TypeScript, HTML5, CSS3, Tailwind CSS  
-» Databases:    MySQL, MongoDB, PostgreSQL  
-» DevOps:       Docker, Git, Linux, Postman  
+---
 
------------------  
-Featured Projects  
+## 🧰 Skills & Technologies
 
-● PDF Storage Platform  
-  ✦ Secure platform where users can upload and manage PDF documents.  
-  ✦ Tech: Next.js, Node.js, MongoDB, Cloud Storage  
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+---
 
-● Notes Management System  
-  ✦ Full-stack notes app with authentication and file upload support.  
-  ✦ Tech: Next.js, NextAuth, Prisma, PostgreSQL  
+## 📬 Let’s Connect
 
-● DSA & System Design Practice  
-  ✦ Consistent problem solving with focus on backend optimization.  
-
-● Portfolio Website  
-  ✦ Personal portfolio showcasing projects and development journey.  
-
---------------------------  
-Thanks for stopping by! :)
-
-Feel free to say hi, share ideas, or just grab a virtual coffee ☕︎  
-
-Let’s build something impactful together <3
+> Open to **freelance work, collaborations, and impactful ideas**.  
+> If you're building something interesting, let's talk 🚀
