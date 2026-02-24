@@ -1,67 +1,45 @@
 # PROBAL GHOSH <3
 ==================
 
-Turning ideas into scalable full-stack products.
-Currently building real-world applications with performance & clean architecture in mind.
+Love turning ideas into scalable full-stack products.  
+Currently building real-world applications that solve practical problems.
 
----------------------
+---------------  
+Connect With Me  
 
-### Connect With Me
+» Portfolio     → https://your-portfolio-link.com  
+» LinkedIn      → https://linkedin.com/in/your-link  
+» Email         → yourmail@gmail.com  
+» Location      → Kolkata, India  
 
-• Portfolio   → https://your-portfolio-link.com  
-• LinkedIn    → https://linkedin.com/in/your-link  
-• Email       → yourmail@gmail.com  
-• Location    → Kolkata, India  
+--------------  
+Skills & Tools  
 
----------------------
+» Backend:      Java, Spring Boot, Node.js, Express.js  
+» Frontend:     React, Next.js, JavaScript, TypeScript, HTML5, CSS3, Tailwind CSS  
+» Databases:    MySQL, MongoDB, PostgreSQL  
+» DevOps:       Docker, Git, Linux, Postman  
 
-### About Me
+-----------------  
+Featured Projects  
 
-- Full Stack Developer
-- Love building backend systems & clean APIs
-- Strong focus on performance & scalable architecture
-- Currently building a PDF document storage platform
-- Interested in system design & real-world problem solving
+● PDF Storage Platform  
+  ✦ Secure platform where users can upload and manage PDF documents.  
+  ✦ Tech: Next.js, Node.js, MongoDB, Cloud Storage  
 
----------------------
+● Notes Management System  
+  ✦ Full-stack notes app with authentication and file upload support.  
+  ✦ Tech: Next.js, NextAuth, Prisma, PostgreSQL  
 
-### Tech Stack
+● DSA & System Design Practice  
+  ✦ Consistent problem solving with focus on backend optimization.  
 
-Backend:
-Java, Spring Boot, Node.js, Express.js
+● Portfolio Website  
+  ✦ Personal portfolio showcasing projects and development journey.  
 
-Frontend:
-React.js, Next.js, JavaScript, TypeScript, HTML5, CSS3, Tailwind CSS
+--------------------------  
+Thanks for stopping by! :)
 
-Database:
-MySQL, MongoDB, PostgreSQL
+Feel free to say hi, share ideas, or just grab a virtual coffee ☕︎  
 
-DevOps & Tools:
-Docker, Git, Linux, Postman
-
----------------------
-
-### Featured Projects
-
-• PDF Storage App  
-A secure platform where users can upload, manage and store their PDF documents.  
-Tech: Next.js, Node.js, MongoDB, Cloud Storage  
-
-• Notes Management System  
-Full stack notes application with authentication & file uploads.  
-Tech: Next.js, NextAuth, Prisma, PostgreSQL  
-
-• Algorithm & DSA Practice  
-Solving data structures & system design problems consistently.
-
----------------------
-
-### Currently Learning
-
-- Advanced System Design
-- Scalable Backend Architecture
-- Performance Optimization
-
----------------------
-
-“Build things that matter.”
+Let’s build something impactful together <3
